@@ -1,2 +1,2 @@
-# docs
-Project documentation
+# k-) Documentation
+Project documentation is located in the [Wiki]() section.
